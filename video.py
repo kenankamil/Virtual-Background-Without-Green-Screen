@@ -32,7 +32,7 @@ def opencam():
             masked_image[seg_image != 0] = 0
       
             back[seg_image == 0] = 0
-            cv2.imshow("Deep Learning",masked_image+back)
+            cv2.imshow("Virtual Background Project",masked_image+back)
     
             if(cv2.waitKey(1)==27):
                 break
