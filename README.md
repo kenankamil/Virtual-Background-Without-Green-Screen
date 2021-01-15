@@ -10,6 +10,6 @@ Run main.py file. There is a basic interface which is design with kivy. Load bac
 #
 ![alt text](https://github.com/kenankamil/Virtual-Background-Without-Green-Screen/blob/main/image%20mapping.png)
 
-One frame of video
+A frame of video
 
 ![alt text](https://github.com/kenankamil/Virtual-Background-Without-Green-Screen/blob/main/video.png)
